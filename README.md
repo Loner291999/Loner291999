@@ -16,10 +16,16 @@ I am a recent graduate residing
   </div>
   
   
-  <h2>I am Muhammad Hassan Naseer and welcome to my small corner of the internet! </h2>
+  <h2>Welcome to my small corner of the internet! </h2>
   <br/>
   <p>
+    <ul>
   I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
+      <li>Name: Hassan 😃 </li>
+      <li>What do I do: am a Full Stack/Software dev 💻 with some experience in UI designing 🧑‍🎨  </li>
+      <li>Reside in: 🇦🇪 </li>
+      <li>Hobbies and interests: *scroll below!!* </li>
+    </ul>
   </p>
 
   <h2>Tools and Technologies I know and use! </h2>
@@ -28,10 +34,10 @@ I am a recent graduate residing
   <h2>Tools and Technologies I am learning ! </h2>
   <br/>
   
-  <h2>🌞 My interests 🎧 </h2>
+  <h2>🌞 Some interests of mine 🎧 </h2>
   <br/>
   <p>
-  <img src="https://img.shields.io/static/v1?label=&message=anime&color=5A2E98&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=manga&color=1D75DE&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=kdrama&color=5E69B9&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=music&color=1ED760&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=tech&color=#3B605&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=pc/mobile-games&color=1B6D92&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=tv-shows-and-movies&color=E50914&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=anime&color=5A2E98&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=manga&color=1D75DE&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=kdrama&color=5E69B9&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=music&color=1ED760&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=tech&color=3B605&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=pc/mobile-games&color=1B6D92&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=tv-shows-and-movies&color=E50914&style=for-the-badge">
   </p>
   <div align="center">
     
