@@ -6,10 +6,11 @@ I am a recent graduate residing
 -->
 
 <body>
-  <h1>Hi there 👋 This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h1>
+  <h1>Hi there 👋 </h1>
+  <h3>This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h3>
   <br/>
   <p>
-  I am a recent graduate residing in 🇦🇪
+  I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
   </p>
 
 
