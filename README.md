@@ -53,7 +53,7 @@ I am a recent graduate residing
 </p>
 <div align="center">
  
- ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=tokyonight)
+ ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=merko)
  
 </div>
 </body>
