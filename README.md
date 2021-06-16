@@ -51,8 +51,9 @@ I am a recent graduate residing
 
  <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=E50914&style=for-the-badge&logo=linkedin"> <img src="https://img.shields.io/static/v1?label=&message=github&color=E50914&style=for-the-badge&logo=github"> <img src="https://img.shields.io/static/v1?label=&message=twitter&color=E50914&style=for-the-badge&logo=twitter"> <img src="https://img.shields.io/static/v1?label=&message=twitch&color=E50914&style=for-the-badge&logo=twitch"> 
 </p>
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=radical)
+<div align="center">
+ ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=onedark)
+</div>
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
