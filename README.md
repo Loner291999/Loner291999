@@ -28,15 +28,23 @@ I am a recent graduate residing
   <h2>Tools and Technologies I am learning ! </h2>
   <br/>
   
-  <h2>🌞 My interests  </h2>
+  <h2>🌞 My interests 🎧 </h2>
   <br/>
-  
-  <h2>🎧 What I am currently listening to rn... </h2>
-  <br/>
+  <img src="https://img.shields.io/static/v1?label=&message=anime&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=manga&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=kdrama&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=music&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=tech&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=pc/mobile games&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=tv shows and movies&color=blue&style=for-the-badge">
+ 
   <div align="center">
     
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&redirect=true)
   
+    
+    
+    <span> src: https://github.com/kittinan/spotify-github-profile </span>
   </div>
   
   <h2>Find me at--> </h2>
