@@ -16,13 +16,24 @@ I am a recent graduate residing
   </div>
   
   
-  <h2>This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h2>
+  <h2>I am Muhammad Hassan Naseer and welcome to my small corner of the internet! </h2>
   <br/>
   <p>
   I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
   </p>
 
-
+  <h2>Tools and Technologies I know and use! </h2>
+  <br/>
+  
+  <h2>Tools and Technologies I am learning ! </h2>
+  <br/>
+  
+  
+  <h2>🎧 What I am currently listening to rn... </h2>
+  <br/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  
+  
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
