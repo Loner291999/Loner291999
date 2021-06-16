@@ -50,7 +50,10 @@ I am a recent graduate residing
   
   <h2>Find me at--> </h2>
   <br/>
-  <p>When I am not coding or doing my hobby stuff, I usually would be retweeting random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! </p>
+  <p>When I am not coding or doing my hobby stuff, I usually would be retweeting random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! 
+
+ <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=E50914&style=for-the-badge&logo=linkedin"> <img src="https://img.shields.io/static/v1?label=&message=github&color=E50914&style=for-the-badge&logo=github"> <img src="https://img.shields.io/static/v1?label=&message=twitter&color=E50914&style=for-the-badge&logo=twitter"> <img src="https://img.shields.io/static/v1?label=&message=twitch&color=E50914&style=for-the-badge&logo=twitch"> 
+</p>
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
