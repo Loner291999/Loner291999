@@ -16,7 +16,7 @@ I am a recent graduate residing
   </div>
   
   
-  <h3>This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h3>
+  <h2>This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h2>
   <br/>
   <p>
   I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
