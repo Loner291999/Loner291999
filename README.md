@@ -3,6 +3,7 @@
 # Hi there 👋 This is Muhammad Hassan Naseer and welcome to my small corner of the internet! 
 
 I am a recent graduate residing
+ I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
 -->
 
 <body>
@@ -20,7 +21,6 @@ I am a recent graduate residing
   <br/>
   <p>
     <ul>
-  I am a full-stack and software dev with experience in UI designing that resides in 🇦🇪
       <li>Name: Hassan 😃 </li>
       <li>What do I do: am a Full Stack/Software dev 💻 with some experience in UI designing 🧑‍🎨  </li>
       <li>Reside in: 🇦🇪 </li>
@@ -50,6 +50,7 @@ I am a recent graduate residing
   
   <h2>Find me at--> </h2>
   <br/>
+  <p>When I am not coding or doing my hobby stuff, I usually retweet random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! </p>
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
