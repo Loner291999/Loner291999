@@ -50,7 +50,7 @@ I am a recent graduate residing
   
   <h2>Find me at--> </h2>
   <br/>
-  <p>When I am not coding or doing my hobby stuff, I usually retweet random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! </p>
+  <p>When I am not coding or doing my hobby stuff, I usually would be retweeting random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! </p>
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
