@@ -9,15 +9,12 @@ I am a recent graduate residing
 <body>
   
 
-  <h1>Hi there 👋 </h1>
+  <h1>Hi there 👋 Welcome to my small corner of the internet!</h1>
   <br/>
   
   <div align = "center">
     <img src="https://i.pinimg.com/originals/e8/46/14/e84614ae6f0b610fd3ce787b92963415.gif" >
-  </div>
-  
-  
-  <h2>Welcome to my small corner of the internet! </h2>
+ </div>
   <br/>
   <p>
     <ul>
