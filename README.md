@@ -7,8 +7,10 @@ I am a recent graduate residing
 
 <body>
   
-  <img src="https://i.pinimg.com/originals/e8/46/14/e84614ae6f0b610fd3ce787b92963415.gif" >
+
   <h1>Hi there 👋 </h1>
+    <img src="https://i.pinimg.com/originals/e8/46/14/e84614ae6f0b610fd3ce787b92963415.gif" >
+  <br/>
   <h3>This is Muhammad Hassan Naseer and welcome to my small corner of the internet! </h3>
   <br/>
   <p>
