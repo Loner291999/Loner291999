@@ -31,7 +31,7 @@ I am a recent graduate residing
   
   <h2>🎧 What I am currently listening to rn... </h2>
   <br/>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
   
 </body>
