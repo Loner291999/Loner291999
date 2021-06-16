@@ -30,13 +30,7 @@ I am a recent graduate residing
   
   <h2>🌞 My interests 🎧 </h2>
   <br/>
-  <img src="https://img.shields.io/static/v1?label=&message=anime&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=manga&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=kdrama&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=music&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=tech&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=pc/mobile games&color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=&message=tv shows and movies&color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=&message=anime&color=blue&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=manga&color=blue&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=kdrama&color=blue&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=music&color=blue&style=for-the-badge"><img src="https://img.shields.io/static/v1?label=&message=tech&color=blue&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=pc/mobile-games&color=blue&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=tv-shows-and-movies&color=blue&style=for-the-badge">
  
   <div align="center">
     
