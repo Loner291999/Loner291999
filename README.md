@@ -28,13 +28,16 @@ I am a recent graduate residing
   <h2>Tools and Technologies I am learning ! </h2>
   <br/>
   
+  <h2>🌞 My interests  </h2>
+  <br/>
   
   <h2>🎧 What I am currently listening to rn... </h2>
   <br/>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&redirect=true)
+  <div align="center">
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&redirect=true)
+  </div>
   
-  <p>test</p>
+  
 </body>
 <!--
 **Loner291999/Loner291999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
