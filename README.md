@@ -41,8 +41,7 @@ I am a recent graduate residing
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21lqpttoshv5hlgkw5kbflrnq&redirect=true)
   
     
-    
-    <span> src: https://github.com/kittinan/spotify-github-profile </span>
+ <span> src: https://github.com/kittinan/spotify-github-profile </span>
   </div>
   
   <h2>Find me at--> </h2>
