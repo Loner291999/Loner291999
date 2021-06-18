@@ -27,7 +27,7 @@ I am a recent graduate residing
 
   <h2>Tools and Technologies I know and use! </h2>
   <br/>
-  
+  <img src="https://img.shields.io/static/v1?label=&message=java&color=E50914&style=for-the-badge&logo=java"> <img src="https://img.shields.io/static/v1?label=&message=sql&color=E50914&style=for-the-badge&logo=sql"> <img src="https://img.shields.io/static/v1?label=&message=flutter&color=E50914&style=for-the-badge&logo=flutter"> <img src="https://img.shields.io/static/v1?label=&message=dart&color=E50914&style=for-the-badge&logo=dart"> <img src="https://img.shields.io/static/v1?label=&message=android-dev&color=E50914&style=for-the-badge&logo=android"> <img src="https://img.shields.io/static/v1?label=&message=html&color=E50914&style=for-the-badge&logo=html"> <img src="https://img.shields.io/static/v1?label=&message=css&color=E50914&style=for-the-badge&logo=css"> <img src="https://img.shields.io/static/v1?label=&message=javascript&color=E50914&style=for-the-badge&logo=js"> 
   <h2>Tools and Technologies I am learning ! </h2>
   <br/>
   
