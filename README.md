@@ -54,10 +54,10 @@ I am a recent graduate residing
   <br/>
   <p>When I am not coding or doing my hobby stuff, I usually would be retweeting random stuff on Twitter or scrolling through wannabe-entrepeneur posts on Linkedin, so might as well stop at these places and give me a hello and a hi👋! 
 
-<a href="https://www.linkedin.com/in/hassan291999/"> <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin"> </a> <img src="https://img.shields.io/static/v1?label=&message=github&color=161B22&style=for-the-badge&logo=github"> <a href="https://twitter.com/Hassan291999"> <img src="https://img.shields.io/static/v1?label=&message=twitter&color=1786CB&style=for-the-badge&logo=twitter"> </a> <a href="https://www.twitch.tv/lonermoan" ><img src="https://img.shields.io/static/v1?label=&message=twitch&color=BD0078&style=for-the-badge&logo=twitch" > </a>
+<a href="https://www.linkedin.com/in/hassan291999/"> <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/Loner291999"><img src="https://img.shields.io/static/v1?label=&message=github&color=161B22&style=for-the-badge&logo=github"></a> <a href="https://twitter.com/Hassan291999"> <img src="https://img.shields.io/static/v1?label=&message=twitter&color=1786CB&style=for-the-badge&logo=twitter"> </a> <a href="https://www.twitch.tv/lonermoan" ><img src="https://img.shields.io/static/v1?label=&message=twitch&color=18181B&style=for-the-badge&logo=twitch" > </a>
 </p>
 <div align="center">
- 
+ 18181B
  ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=synthwave)
  
 </div>
