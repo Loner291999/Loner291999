@@ -57,7 +57,7 @@ I am a recent graduate residing
 <a href="https://www.linkedin.com/in/hassan291999/"> <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/Loner291999"><img src="https://img.shields.io/static/v1?label=&message=github&color=161B22&style=for-the-badge&logo=github"></a> <a href="https://twitter.com/Hassan291999"> <img src="https://img.shields.io/static/v1?label=&message=twitter&color=1786CB&style=for-the-badge&logo=twitter"> </a> <a href="https://www.twitch.tv/lonermoan" ><img src="https://img.shields.io/static/v1?label=&message=twitch&color=18181B&style=for-the-badge&logo=twitch" > </a>
 </p>
 <div align="center">
- 18181B
+ 
  ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loner291999&show_icons=true&theme=synthwave)
  
 </div>
