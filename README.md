@@ -19,7 +19,7 @@ I am a recent graduate residing
   <p>
     <ul>
       <li>Name: Hassan 😃 </li>
-      <li>What do I do: am a Full Stack/Software dev 💻 with some experience in UI designing 🧑‍🎨  </li>
+      <li>What do I do: am a Full Stack/Mobile dev 💻 with some experience in UI designing 🧑‍🎨  </li>
       <li>Reside in: 🇦🇪 </li>
       <li>Hobbies and interests: *scroll below!!* </li>
     </ul>
