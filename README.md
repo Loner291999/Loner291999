@@ -34,7 +34,7 @@ I am a recent graduate residing
   <h2>Tools and Technologies I am(or going to) learning  ! </h2>
   <br/>
   <p>
-  <img src="https://img.shields.io/static/v1?label=&message=React-native&color=E50914&style=for-the-badge&logo=reactnative"> <img src="https://img.shields.io/static/v1?label=&message=Reactjs&color=E50914&style=for-the-badge&logo=react"> <img src="https://img.shields.io/static/v1?label=&message=ios-dev&color=000000&style=for-the-badge&logo=apple"> <img src="https://img.shields.io/static/v1?label=&message=swift&color=E50914&style=for-the-badge&logo=swift"> <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=E50914&style=for-the-badge&logo=bootstrap"> <img src="https://img.shields.io/static/v1?label=&message=vuejs&color=E50914&style=for-the-badge&logo=vuejs"> <img src="https://img.shields.io/static/v1?label=&message=selenium&color=E50914&style=for-the-badge&logo=selenium"> 
+  <img src="https://img.shields.io/static/v1?label=&message=React-native&color=282C34&style=for-the-badge&logo=react"> <img src="https://img.shields.io/static/v1?label=&message=Reactjs&color=282C34&style=for-the-badge&logo=react"> <img src="https://img.shields.io/static/v1?label=&message=ios-dev&color=000000&style=for-the-badge&logo=apple"> <img src="https://img.shields.io/static/v1?label=&message=swift&color=000000&style=for-the-badge&logo=swift"> <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap"> <img src="https://img.shields.io/static/v1?label=&message=vuejs&color=E50914&style=for-the-badge&logo=vuejs"> <img src="https://img.shields.io/static/v1?label=&message=selenium&color=E50914&style=for-the-badge&logo=selenium"> 
  
  </p>
   <h2>🌞 Some interests of mine 🎧 </h2>
