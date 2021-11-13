@@ -3,7 +3,7 @@
 # Hi there 👋 This is Muhammad Hassan Naseer and welcome to my small corner of the internet! 
 
 I am a recent graduate residing
- I am a mobile app and game dev with experience in UI designing and full stack development that resides in 🇦🇪
+I am a mobile app and game dev with experience in UI designing and full stack development that resides in 🇦🇪
 -->
 
 <body>
@@ -19,7 +19,7 @@ I am a recent graduate residing
   <p>
     <ul>
       <li>Name: Hassan 😃 </li>
-      <li>What do I do: am a Full Stack/Mobile dev 💻 with some experience in UI designing 🧑‍🎨  </li>
+      <li>What do I do: am a Mobile app and game dev 💻 with some experience in UI designing and full stack development 🧑‍🎨  </li>
       <li>Reside in: 🇦🇪 </li>
       <li>Hobbies and interests: *scroll below!!* </li>
     </ul>
