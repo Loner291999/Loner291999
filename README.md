@@ -19,7 +19,7 @@ I am a mobile app and game dev with experience in UI designing and full stack de
   <p>
     <ul>
       <li>Name: Hassan 😃 </li>
-      <li>What do I do: am an app/game dev 💻 with some experience in UI designing and full stack development 🧑‍🎨 . Currently working in multimedia/web development and IT </li>
+      <li>What do I do: interdisciplinary designer/developer with experience in UI designing and full stack development 🧑‍🎨 . Currently working in multimedia/web development and IT </li>
       <li>Reside in: 🇦🇪 </li>
       <li>Hobbies and interests: *scroll below!!* </li>
     </ul>
